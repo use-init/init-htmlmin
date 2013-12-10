@@ -14,8 +14,7 @@ in your main project's root directory.
 You need to add an object in your `config.js` file calles `htmlmin` to describe the files to be minimized:
 
 	{
-		'dist/index.html': 'dist/index.html'
-		// Which is `src: target`
+		'source.html': 'target.html'
 	}
 
 ## Contribute
