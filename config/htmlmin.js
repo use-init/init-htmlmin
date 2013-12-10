@@ -16,5 +16,5 @@ module.exports = {
 		},
 
 		files: config.htmlmin
-	},
+	}
 };
