@@ -2,7 +2,7 @@
 
 A plugin for [INIT](http://use-init.com/) using [grunt-contrib-htmlmin](https://github.com/gruntjs/grunt-contrib-htmlmin) to minimize your HTML.
 
-[![devDependency Status](https://david-dm.org/init/init-htmlmin/dev-status.png)](https://david-dm.org/use-init/init-htmlmin#info=devDependencies)
+[![devDependency Status](https://david-dm.org/use-init/init-htmlmin/dev-status.png)](https://david-dm.org/use-init/init-htmlmin#info=devDependencies)
 
 ## Installation
 You can add this plugin to INIT by copying over the file `config/htmlmin.js` to `tasks/options` and run
